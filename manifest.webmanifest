@@ -1,0 +1,37 @@
+{
+  "name": "Sky Pilot",
+  "short_name": "Sky Pilot",
+  "description": "3D flight game: airliners, fighters, a flying house, spaceships, realistic weather and graphics.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#05070d",
+  "theme_color": "#0e224e",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
